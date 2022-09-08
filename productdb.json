@@ -127,6 +127,14 @@
             "price": 3549,
             "category" : "WOMEN'S SNEAKERS",
             "inStock" : 1
+        },
+        {
+            "id": 11,
+            "brand": "ROLEX",
+            "image" : "images/bulk-image-crop/nb2002rdn.jpeg",
+            "price": 3549,
+            "category" : "MEN'S WATCHES",
+            "inStock" : 1
         }
     ]
     
