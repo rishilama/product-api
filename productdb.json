@@ -145,6 +145,26 @@
             "price": 3549,
             "category" : "WOMEN'S SNEAKERS",
             "inStock" : 1
+        },
+        {
+            "id": 14,
+            "name": "AIR JORDAN 1 ' OBSIDIAN BLUE ' ",
+            "brand": "JORDAN",
+            "image" : "images/bulk-image-crop/obfm.jpeg",
+            "sizes": "36-37-38-39-40",
+            "price": 3549,
+            "category" : "WOMEN'S SNEAKERS",
+            "inStock" : 1
+        },
+        {
+            "id": 14,
+            "name": "AIR JORDAN 1 ' OBSIDIAN BLUE ' ",
+            "brand": "JORDAN",
+            "image" : "images/bulk-image-crop/obfm.jpeg",
+            "sizes": "36-37-38-39-40",
+            "price": 3549,
+            "category" : "WOMEN'S SNEAKERS",
+            "inStock" : 1
         }
     ]
     
